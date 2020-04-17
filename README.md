@@ -1,4 +1,4 @@
-**READ ME** <br />
+<p align="center">**READ ME** <p/> <br />
 :white_check_mark: Teste da Library: 'react-credit-cards' <br />
 **Feito em**:  ⚛️ ReactJS
 <p />
