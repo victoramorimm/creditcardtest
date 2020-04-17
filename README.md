@@ -5,6 +5,6 @@
 <h />
 :pencil: Teste feito para praticar o front-end e "de quebra" aprender uma Library nova! Segue imagem do teste: <br />
 :camera_flash: 
-![cardteste1](https://user-images.githubusercontent.com/63806098/79613899-d0effe80-80d5-11ea-9f51-ee6985b900e3.png)
+<img src="src/assets/cardteste1.png">
 
 
